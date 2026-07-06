@@ -1,5 +1,7 @@
 # Keradux Engine
 
+[简体中文](./README.zh.md)
+
 A lightweight, extensible **turn-based battle engine** written in TypeScript, designed for PvE (Player vs Environment) combat games. Built from scratch during my sophomore year as a personal project to explore game engine architecture, AI design patterns, and TypeScript module systems.
 
 ## Features
